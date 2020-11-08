@@ -1,12 +1,11 @@
-# Chez Jerome
-An internal hotel management application using Node.js, Express, Sequelize, Handlebars.js and Passport.js
+# Hotel Booking
+A hotel management application using Node.js, Express, HTML, CSS, JAVASCRIPT.
 
 ### Table of Contents 
 
 1. [About](#about)
 2. [Guest View](#guest)
 3. [Manager View](#manager)
-4. [Demo](#demo)
 
 <a name="about"></a>
 ### About
@@ -37,9 +36,3 @@ An admin account has already been created on the demo:
 <br>Email: admin@admin.com
 <br>Password: admin
 
-<a name="demo"></a>
-### Demo
-https://fierce-woodland-16916.herokuapp.com
-<br>
-Manager Portal: https://fierce-woodland-16916.herokuapp.com/admin
-"#Hotel-Booking-in-Node-Js" 
